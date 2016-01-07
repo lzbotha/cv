@@ -1,4 +1,4 @@
-Yaseen Hamdulay's CV
+Leonard Botha's CV
 
 Compile like so:
 pdflatex cv.tex
